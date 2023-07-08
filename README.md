@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I LOVE NATURE
+- 🦕 I LOVE dinosaur 🦖
 - 📫 How to reach me: nerissaknox04@gmail.com
 
 #### Tech Stack
