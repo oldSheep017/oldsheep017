@@ -5,12 +5,7 @@
 - 📫 How to reach me: nerissaknox04@gmail.com
 
 #### Tech Stack
-- HTML
-- CSS
 - JavaScript
-- Vue
-- Wechat Miniprogram
-- Node.js
 
 #### Database
 - MySQL
